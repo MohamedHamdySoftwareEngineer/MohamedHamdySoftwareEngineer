@@ -18,7 +18,7 @@
 
 </div>
 
-🚀 Dedicated Flutter developer who turns complex requirements into elegant, high-performance mobile experiences. With a strong foundation in BLoC state management and hands-on backend integration, I write clean, reusable code, I continually push to learn new tools and best practices to deliver polished, production-ready apps
+🚀 Dedicated Flutter developer who turns complex requirements into elegant, high-performance mobile experiences. With a strong foundation in BLoC state management and hands-on backend integration, writing clean, reusable code, I continually push to learn new tools and best practices to deliver polished, production-ready apps
 
 
 "Turning complex requirements into elegant mobile experiences!" 🚀
