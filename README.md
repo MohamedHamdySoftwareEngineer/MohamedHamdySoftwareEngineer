@@ -56,14 +56,10 @@
 ---
 
 ## 📊 GitHub Analytics
-
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=MohamedHamdySoftwareEngineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 <img width="400"
-     src="https://github-readme-streak-stats.vercel.app/?user=MohamedHamdySoftwareEngineer&theme=tokyonight&hide_border=true&date=2025-07-07" />
-
+     src="https://github-readme-streak-stats-eight.vercel.app/?user=MohamedHamdySoftwareEngineer&theme=tokyonight&hide_border=true" />
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamdySoftwareEngineer&layout=compact&theme=tokyonight&hide_border=true" />
-
 ---
 
 
