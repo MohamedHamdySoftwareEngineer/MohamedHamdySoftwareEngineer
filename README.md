@@ -72,8 +72,10 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎓 **Education & Nutrition** | Advanced system for education and student nutrition management | Flutter, BLoC, REST API |
-| 🧠 **Examuiz** | AI-powered exam management with performance analytics | Flutter, AI Integration, REST API |
+| 🍽️ **Restaurant App** | Mobile food ordering platform with menu browsing and cart management | Flutter, Firebase, Firestore |
 | 📚 **NovaEd** | Comprehensive e-learning platform with progress tracking | Flutter, Cubit  |
+| 🧠 **Examuiz** | AI-powered exam management with performance analytics | Flutter, AI Integration, REST API |
+
 
 
 </div>
